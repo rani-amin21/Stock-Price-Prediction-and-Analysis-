@@ -6,7 +6,6 @@ This project is an end-to-end Stock Price Prediction and Analysis Web Applicatio
 It also visualizes essential technical indicators such as EMA 20, 50, 100, 200 and generates Actual vs Predicted graphs.
 
 Built using: Python, Flask, Keras, yFinance, Matplotlib, NumPy, Pandas
-Team Members: Rani Amin, Smruti Katariya
 
 🚀 Features
 
