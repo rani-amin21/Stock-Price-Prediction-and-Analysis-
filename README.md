@@ -62,8 +62,11 @@ http://127.0.0.1:5000/
 📊 Output Preview
 1️⃣ EMA Trend Charts (20, 50)
 📌 Automatically generated after prediction
+![20 vs 50 ema](https://github.com/user-attachments/assets/d60f840e-b5b5-486c-a925-cb764dd26ae2)
 2️⃣ EMA Trend Charts (100, 200)
+![100 vs 200 ema](https://github.com/user-attachments/assets/cd3b6fde-32d8-409b-9719-ef875d1b43bb)
 3️⃣ Actual vs Predicted Stock Price
+![predicted vs actual](https://github.com/user-attachments/assets/94340f3e-ec7e-43f5-8ffa-4e9eb038f3d0)
 
 
 🧩 How the Model Works
